@@ -1,0 +1,9 @@
+# Fins de ligne normalisées (LF dans le dépôt)
+* text=auto eol=lf
+
+# Fichiers binaires
+*.png binary
+*.npz binary
+
+# Résultats générés par les scripts
+resultats/** linguist-generated=true

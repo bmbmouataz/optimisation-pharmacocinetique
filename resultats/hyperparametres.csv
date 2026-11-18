@@ -1,0 +1,253 @@
+reglage,valeur,patient,ecart_optimum
+Recuit simulé : température initiale,0.0001,1,0.00043585016521763276
+Recuit simulé : température initiale,0.0001,2,0.0005830240892570338
+Recuit simulé : température initiale,0.0001,3,0.00043722565710080374
+Recuit simulé : température initiale,0.0001,4,0.000785335388425179
+Recuit simulé : température initiale,0.0001,5,0.00021990131930915702
+Recuit simulé : température initiale,0.0001,6,0.000269006577774622
+Recuit simulé : température initiale,0.0001,7,0.000614162133940388
+Recuit simulé : température initiale,0.0001,8,0.0003178588295184026
+Recuit simulé : température initiale,0.0001,9,0.0003632720871389328
+Recuit simulé : température initiale,0.0001,10,0.0005371731046805994
+Recuit simulé : température initiale,0.0001,11,0.00045282364923537877
+Recuit simulé : température initiale,0.0001,12,0.0002906268305447046
+Recuit simulé : température initiale,0.001,1,0.00022855326031878676
+Recuit simulé : température initiale,0.001,2,0.0002183435114535559
+Recuit simulé : température initiale,0.001,3,0.00020054837675131942
+Recuit simulé : température initiale,0.001,4,0.0002880240355828123
+Recuit simulé : température initiale,0.001,5,0.00043515226716106525
+Recuit simulé : température initiale,0.001,6,0.0002616668970296665
+Recuit simulé : température initiale,0.001,7,0.0005443187239447811
+Recuit simulé : température initiale,0.001,8,0.00046186697136407773
+Recuit simulé : température initiale,0.001,9,0.00013925470592868194
+Recuit simulé : température initiale,0.001,10,0.00028120596083947014
+Recuit simulé : température initiale,0.001,11,0.00019545448850921687
+Recuit simulé : température initiale,0.001,12,0.00020580423568583583
+Recuit simulé : température initiale,0.01,1,0.00041737267403751943
+Recuit simulé : température initiale,0.01,2,0.0006185776265656973
+Recuit simulé : température initiale,0.01,3,0.0002998810163646892
+Recuit simulé : température initiale,0.01,4,0.0003189386226765123
+Recuit simulé : température initiale,0.01,5,0.0005496455001234857
+Recuit simulé : température initiale,0.01,6,0.0002349414256312965
+Recuit simulé : température initiale,0.01,7,0.00047150227721359794
+Recuit simulé : température initiale,0.01,8,0.0003772929456022922
+Recuit simulé : température initiale,0.01,9,0.00020070025167406857
+Recuit simulé : température initiale,0.01,10,0.000660944649587325
+Recuit simulé : température initiale,0.01,11,0.00020776502028430066
+Recuit simulé : température initiale,0.01,12,0.00014745741304633686
+Recuit simulé : température initiale,0.1,1,0.0002607256115265688
+Recuit simulé : température initiale,0.1,2,0.00039207677831720744
+Recuit simulé : température initiale,0.1,3,0.00018597657594066064
+Recuit simulé : température initiale,0.1,4,0.0003739198567809243
+Recuit simulé : température initiale,0.1,5,0.0006869533846334264
+Recuit simulé : température initiale,0.1,6,0.0001965690984235824
+Recuit simulé : température initiale,0.1,7,0.0002488560984813537
+Recuit simulé : température initiale,0.1,8,0.0003251136015439693
+Recuit simulé : température initiale,0.1,9,0.0004323275089362921
+Recuit simulé : température initiale,0.1,10,0.0002199744571380613
+Recuit simulé : température initiale,0.1,11,0.00024093704324590348
+Recuit simulé : température initiale,0.1,12,0.0001922471610440457
+Recuit simulé : température initiale,1,1,0.0004773201269246963
+Recuit simulé : température initiale,1,2,0.0006042998123318988
+Recuit simulé : température initiale,1,3,0.0003398285483164898
+Recuit simulé : température initiale,1,4,3.043330933599317
+Recuit simulé : température initiale,1,5,0.0004103738750478314
+Recuit simulé : température initiale,1,6,0.1692331566361973
+Recuit simulé : température initiale,1,7,0.0005143121813737661
+Recuit simulé : température initiale,1,8,0.0007643198445794752
+Recuit simulé : température initiale,1,9,4.375107673770806e-05
+Recuit simulé : température initiale,1,10,0.0002778908842161476
+Recuit simulé : température initiale,1,11,0.0003461870209471307
+Recuit simulé : température initiale,1,12,0.00024901724217618604
+Recuit simulé : température initiale,10,1,0.0006967511621406297
+Recuit simulé : température initiale,10,2,0.0006398417430701908
+Recuit simulé : température initiale,10,3,0.0008616783534252104
+Recuit simulé : température initiale,10,4,0.0004082697340375141
+Recuit simulé : température initiale,10,5,0.0005901434261127436
+Recuit simulé : température initiale,10,6,0.0003861202304686895
+Recuit simulé : température initiale,10,7,0.00034832066850798427
+Recuit simulé : température initiale,10,8,0.00043070794811050916
+Recuit simulé : température initiale,10,9,0.0004547082702848204
+Recuit simulé : température initiale,10,10,0.00014670212658873805
+Recuit simulé : température initiale,10,11,0.0007003040667730165
+Recuit simulé : température initiale,10,12,0.00024343770661450215
+Recuit simulé : budget,1000,1,0.0003498280129315967
+Recuit simulé : budget,1000,2,0.0013431305895152956
+Recuit simulé : budget,1000,3,0.0007606088823338686
+Recuit simulé : budget,1000,4,0.001023598772341927
+Recuit simulé : budget,1000,5,0.0007895342126540417
+Recuit simulé : budget,1000,6,0.0004699143234159209
+Recuit simulé : budget,1000,7,0.0012468281812552107
+Recuit simulé : budget,1000,8,0.0008733223129411272
+Recuit simulé : budget,1000,9,0.0009512121132932982
+Recuit simulé : budget,1000,10,0.0009075956798367812
+Recuit simulé : budget,1000,11,0.0004545691214108416
+Recuit simulé : budget,1000,12,0.0013807872490623208
+Recuit simulé : budget,3000,1,0.0003887195127457721
+Recuit simulé : budget,3000,2,0.00022434120980818761
+Recuit simulé : budget,3000,3,0.0012643043912172747
+Recuit simulé : budget,3000,4,0.0006066875619886725
+Recuit simulé : budget,3000,5,0.001433109029507662
+Recuit simulé : budget,3000,6,0.0007108578792119902
+Recuit simulé : budget,3000,7,0.000967555462947689
+Recuit simulé : budget,3000,8,0.000522787538826841
+Recuit simulé : budget,3000,9,0.00122034646638014
+Recuit simulé : budget,3000,10,0.0007733909114688853
+Recuit simulé : budget,3000,11,0.0007170163370748828
+Recuit simulé : budget,3000,12,0.0005372426821179666
+Recuit simulé : budget,10000,1,0.0003278122638670222
+Recuit simulé : budget,10000,2,0.00015788224521506855
+Recuit simulé : budget,10000,3,0.00010402700378109309
+Recuit simulé : budget,10000,4,0.0008813438937801399
+Recuit simulé : budget,10000,5,0.00025016929799548393
+Recuit simulé : budget,10000,6,0.000563583785930799
+Recuit simulé : budget,10000,7,0.0006287838938896506
+Recuit simulé : budget,10000,8,0.0007836824554776634
+Recuit simulé : budget,10000,9,0.0004410759251920471
+Recuit simulé : budget,10000,10,0.00044829584266081746
+Recuit simulé : budget,10000,11,0.00026911585823397033
+Recuit simulé : budget,10000,12,0.0005694041354075141
+Recuit simulé : budget,30000,1,0.0005706285808891876
+Recuit simulé : budget,30000,2,0.00017053494422747395
+Recuit simulé : budget,30000,3,0.00016151760806726312
+Recuit simulé : budget,30000,4,0.00031868236792709226
+Recuit simulé : budget,30000,5,0.00010976347436186806
+Recuit simulé : budget,30000,6,5.05754812203385e-05
+Recuit simulé : budget,30000,7,6.464052434607126e-05
+Recuit simulé : budget,30000,8,0.00043330139127961687
+Recuit simulé : budget,30000,9,0.0002912707513218482
+Recuit simulé : budget,30000,10,0.00048321874719958746
+Recuit simulé : budget,30000,11,0.0002282918449383331
+Recuit simulé : budget,30000,12,0.0002387138414132739
+Recuit simulé : budget,100000,1,3.0717625710607876e-05
+Recuit simulé : budget,100000,2,0.00013629409314175334
+Recuit simulé : budget,100000,3,0.0004604484795520669
+Recuit simulé : budget,100000,4,0.00019764284906975682
+Recuit simulé : budget,100000,5,0.0002066794748372125
+Recuit simulé : budget,100000,6,0.00029053169304793514
+Recuit simulé : budget,100000,7,7.709290271340485e-05
+Recuit simulé : budget,100000,8,0.0002905804121193789
+Recuit simulé : budget,100000,9,0.00010752932017410455
+Recuit simulé : budget,100000,10,0.00031594299064341413
+Recuit simulé : budget,100000,11,0.0002055835917702531
+Recuit simulé : budget,100000,12,0.00024516846088507016
+Metropolis : température,0.0001,1,0.004624637613779181
+Metropolis : température,0.0001,2,0.004030196267876263
+Metropolis : température,0.0001,3,0.005296389233433341
+Metropolis : température,0.0001,4,0.0026966956547054277
+Metropolis : température,0.0001,5,0.0012986500522440547
+Metropolis : température,0.0001,6,0.002107570076285592
+Metropolis : température,0.0001,7,0.0038964343279579428
+Metropolis : température,0.0001,8,0.0030115316988903462
+Metropolis : température,0.0001,9,0.00527666150622208
+Metropolis : température,0.0001,10,0.003686838683798488
+Metropolis : température,0.0001,11,0.002493564849756158
+Metropolis : température,0.0001,12,0.0011502069393291015
+Metropolis : température,0.001,1,0.001867711311800746
+Metropolis : température,0.001,2,0.010984881951107806
+Metropolis : température,0.001,3,0.0035797525184744217
+Metropolis : température,0.001,4,0.002197122253866146
+Metropolis : température,0.001,5,0.005686324054242409
+Metropolis : température,0.001,6,0.00310861419153996
+Metropolis : température,0.001,7,0.0015995152135143131
+Metropolis : température,0.001,8,0.002668887643023088
+Metropolis : température,0.001,9,0.002444055072949758
+Metropolis : température,0.001,10,0.003304968771732697
+Metropolis : température,0.001,11,0.0042347867960153
+Metropolis : température,0.001,12,0.0032427867228614904
+Metropolis : température,0.01,1,0.0038797347269945437
+Metropolis : température,0.01,2,0.005915771978309836
+Metropolis : température,0.01,3,0.00229553645140812
+Metropolis : température,0.01,4,0.010273469996523232
+Metropolis : température,0.01,5,0.0038089390634470366
+Metropolis : température,0.01,6,0.0022710707792445994
+Metropolis : température,0.01,7,0.0017985902106765206
+Metropolis : température,0.01,8,0.005098120791580785
+Metropolis : température,0.01,9,0.0014440296177757883
+Metropolis : température,0.01,10,0.003788424789597733
+Metropolis : température,0.01,11,0.008331902131906155
+Metropolis : température,0.01,12,0.0013787171437370516
+Metropolis : température,0.1,1,0.0035744945753299895
+Metropolis : température,0.1,2,0.02760023740997597
+Metropolis : température,0.1,3,0.007333277740464217
+Metropolis : température,0.1,4,0.014463528136708037
+Metropolis : température,0.1,5,0.00814169305241208
+Metropolis : température,0.1,6,0.003387589708676586
+Metropolis : température,0.1,7,0.007308501641355547
+Metropolis : température,0.1,8,0.0038071097029268586
+Metropolis : température,0.1,9,0.010044482030382995
+Metropolis : température,0.1,10,0.012940515064377989
+Metropolis : température,0.1,11,0.019045319801874294
+Metropolis : température,0.1,12,0.005864052796574204
+Metropolis : température,1,1,0.013787752318517699
+Metropolis : température,1,2,0.07691243391896607
+Metropolis : température,1,3,0.026402737365218032
+Metropolis : température,1,4,0.018971618974943816
+Metropolis : température,1,5,0.009003309415422045
+Metropolis : température,1,6,0.001560813386283444
+Metropolis : température,1,7,0.023281004220358392
+Metropolis : température,1,8,0.004776485090309146
+Metropolis : température,1,9,0.028033334917820785
+Metropolis : température,1,10,0.007252159903440414
+Metropolis : température,1,11,0.03487990786906958
+Metropolis : température,1,12,0.011257452635854204
+Metropolis : température,10,1,0.06705462024560105
+Metropolis : température,10,2,0.11388413304993206
+Metropolis : température,10,3,0.010975421461161261
+Metropolis : température,10,4,0.010371480038566805
+Metropolis : température,10,5,0.053170494462419615
+Metropolis : température,10,6,0.07937689352668409
+Metropolis : température,10,7,0.048714949202564695
+Metropolis : température,10,8,0.03916220163985029
+Metropolis : température,10,9,0.3908484885185064
+Metropolis : température,10,10,0.06674279343739575
+Metropolis : température,10,11,0.09158339148240935
+Metropolis : température,10,12,0.05726002165715349
+Recherche aléatoire : budget,1000,1,0.7378196605231118
+Recherche aléatoire : budget,1000,2,0.2905626327445483
+Recherche aléatoire : budget,1000,3,0.29432500817917795
+Recherche aléatoire : budget,1000,4,1.6953952692622125
+Recherche aléatoire : budget,1000,5,0.14161436845965625
+Recherche aléatoire : budget,1000,6,0.4140286928253236
+Recherche aléatoire : budget,1000,7,0.48524014825554485
+Recherche aléatoire : budget,1000,8,0.3176549440634764
+Recherche aléatoire : budget,1000,9,0.31422457046431473
+Recherche aléatoire : budget,1000,10,0.3481749829105161
+Recherche aléatoire : budget,1000,11,0.15506279597670558
+Recherche aléatoire : budget,1000,12,0.11165672737263788
+Recherche aléatoire : budget,10000,1,0.14176868471457615
+Recherche aléatoire : budget,10000,2,0.08560125533045526
+Recherche aléatoire : budget,10000,3,0.08078739610759089
+Recherche aléatoire : budget,10000,4,2.991189071270308
+Recherche aléatoire : budget,10000,5,0.11270174598562444
+Recherche aléatoire : budget,10000,6,0.17150741800424252
+Recherche aléatoire : budget,10000,7,0.08596943452833683
+Recherche aléatoire : budget,10000,8,0.07863702597391575
+Recherche aléatoire : budget,10000,9,0.1996352642873993
+Recherche aléatoire : budget,10000,10,0.15259872937824892
+Recherche aléatoire : budget,10000,11,0.06751362254181803
+Recherche aléatoire : budget,10000,12,0.32923597487382317
+Recherche aléatoire : budget,100000,1,0.056613484829670435
+Recherche aléatoire : budget,100000,2,0.10983259984035199
+Recherche aléatoire : budget,100000,3,0.02865724787366064
+Recherche aléatoire : budget,100000,4,0.11809375092288676
+Recherche aléatoire : budget,100000,5,0.050658211575946965
+Recherche aléatoire : budget,100000,6,0.06786802387484703
+Recherche aléatoire : budget,100000,7,0.07918083936405385
+Recherche aléatoire : budget,100000,8,0.11402893529924296
+Recherche aléatoire : budget,100000,9,0.13693603992197634
+Recherche aléatoire : budget,100000,10,0.05980829213039318
+Recherche aléatoire : budget,100000,11,0.038860665755932944
+Recherche aléatoire : budget,100000,12,0.005083108883690124
+Recherche aléatoire : budget,1000000,1,0.00520468524562645
+Recherche aléatoire : budget,1000000,2,0.03897075832277197
+Recherche aléatoire : budget,1000000,3,0.025667232664990935
+Recherche aléatoire : budget,1000000,4,0.045154794523469044
+Recherche aléatoire : budget,1000000,5,0.04034260112201715
+Recherche aléatoire : budget,1000000,6,0.04054370113173067
+Recherche aléatoire : budget,1000000,7,0.05606177023772596
+Recherche aléatoire : budget,1000000,8,0.025367536138403146
+Recherche aléatoire : budget,1000000,9,0.01422224184511589
+Recherche aléatoire : budget,1000000,10,0.03861123652238996
+Recherche aléatoire : budget,1000000,11,0.020014107711930906
+Recherche aléatoire : budget,1000000,12,0.01822602357244807
